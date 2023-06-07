@@ -6,9 +6,11 @@ body {
 
 #home h1 {
     font-family: "Yeseva One", serif;
+    color: white;
     text-align: center;
 }
 
 #home h2 {
     text-align: center;
+    color: white;
 }
