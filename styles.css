@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+@import url(https://fons.googleapis.com/css?=family=Unna);
+
+body {
+    background-color: #222;
+}
+
+h1 {
+    font-family: "Comfortaa", cursive;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-family: "Unna", sans-serif;
+    text-align: center;
+    font-size: medium;
+}
+
+
+a {
+    display: block; /*_*/
+    text-align: center;
+  }
+  
+
+p {
+    color: white;
+    text-align: center;
+}
+
+
+
+/* Silly Website code below */
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #ad3737;
+    color: white;
+  }
+
+.centeredimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+/* SILLY EMBED COED 
+
+<meta content="Embed Title" property="og:title" />
+<meta content="Site Description" property="og:description" />
+<meta content="https://embed.com/this-is-the-site-url" property="og:url" />
+<meta content="https://embed.com/embedimage.png" property="og:image" />
+<meta content="#43B581" data-react-helmet="true" name="theme-color" />
+
+*/
+  
