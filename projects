@@ -12,10 +12,10 @@
 
         <div class="topnav">
             <a href="index.html">Home</a>
-            <a href="news.html">News</a>
-            <a class="active" href="projects.html">Projects</a>
-            <a href="/albums/main.html">Albums</a>
-            <a href="about.html">About Me</a>
+            <a href="news">News</a>
+            <a class="active" href="projects">Projects</a>
+            <a href="/albums/main">Albums</a>
+            <a href="about">About Me</a>
         </div>
 
 
